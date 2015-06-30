@@ -1,0 +1,1 @@
+E:\Work_Projects\NET\Academy\Data_Structures_LINQ\ObjectTypeExamples\ObjectTypeExamples\bin\Debug\ObjectTypeExamples.exe.config
