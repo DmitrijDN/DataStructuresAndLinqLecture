@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertTypes", "ConvertType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExample", "LINQExample\LINQExample.csproj", "{A51AF81F-917E-4BCB-913B-2B012832285B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxingExample", "BoxingUnboxingExample\BoxingUnboxingExample.csproj", "{AA46B3D1-1F84-4417-BA68-FFF4C62B5B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericVsNonGeneric", "GenericVsNonGeneric\GenericVsNonGeneric.csproj", "{56A9929D-7EC8-4ED7-A760-A2394ABBE398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{A51AF81F-917E-4BCB-913B-2B012832285B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A51AF81F-917E-4BCB-913B-2B012832285B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A51AF81F-917E-4BCB-913B-2B012832285B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA46B3D1-1F84-4417-BA68-FFF4C62B5B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA46B3D1-1F84-4417-BA68-FFF4C62B5B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA46B3D1-1F84-4417-BA68-FFF4C62B5B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA46B3D1-1F84-4417-BA68-FFF4C62B5B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A9929D-7EC8-4ED7-A760-A2394ABBE398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A9929D-7EC8-4ED7-A760-A2394ABBE398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A9929D-7EC8-4ED7-A760-A2394ABBE398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A9929D-7EC8-4ED7-A760-A2394ABBE398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
